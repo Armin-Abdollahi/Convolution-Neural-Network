@@ -25,7 +25,7 @@ To compile the model, we chose the optimizer "adam" and to train the model, we s
 
 Then we plot the results:
 
-<img width="750" src="https://github.com/Armin-Abdollahi/Convolution-Neural-Network/assets/103449830/039ec0b3-cc39-4efb-9772-59e5a5611c28">
+<img width="600" src="https://github.com/Armin-Abdollahi/Convolution-Neural-Network/assets/103449830/039ec0b3-cc39-4efb-9772-59e5a5611c28">
 
 
 
