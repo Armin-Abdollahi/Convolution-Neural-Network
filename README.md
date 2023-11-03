@@ -1,6 +1,5 @@
-# Convolution-Neural-Network
+# Convolution on CIFAR-10
 
-Convolution on CIFAR-10
 
 To implement Convolution on the CIFAR-10 dataset, we first import the TensorFlow Framework and the necessary libraries, and then load the CIFAR-10 dataset.
 After loading the dataset, we need to normalize our data. For this, by dividing by 255, our data will be a number between 0 and 1.
