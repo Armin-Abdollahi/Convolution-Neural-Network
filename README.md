@@ -36,5 +36,5 @@ Then we plot the results:
 | Loss | 0.6220 | 0.4688 |
 | Accuracy | 0.7815 | 0.8346 |
 | Val_loss | 1.1745 | 1.3413 |
-| Val_accuracy | 0.6602 | 0. |
+| Val_accuracy | 0.6602 | 0.6379 |
 | Plot |![image](https://github.com/Armin-Abdollahi/Convolution-Neural-Network/assets/103449830/cd9ef6e2-bccf-4e25-9a42-e0fc063476db)|![image](https://github.com/Armin-Abdollahi/Convolution-Neural-Network/assets/103449830/76922907-acde-4d65-89fb-65f6b8345623)|
